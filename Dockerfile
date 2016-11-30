@@ -1,3 +1,3 @@
 FROM jboss/keycloak
 
-COPY standalone*.xml /opt/jboss/keycloak/standalone/configuration
+COPY standalone*.xml /opt/jboss/keycloak/standalone/configuration/
